@@ -311,7 +311,7 @@ padding-bottom: 3%;
   width: 48%;
   margin-left: 1px;
 }
-@media (max-width: 800px) {
+@media (max-width: 1028px) {
 
 h1{
   font-size: 30px;
