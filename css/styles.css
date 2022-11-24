@@ -314,13 +314,13 @@ padding-bottom: 3%;
 @media (max-width: 1028px) {
 
 h1{
-  font-size: 30px;
+  font-size: 50px;
 }
 .big-heading{
-  font-size: 30px;
+  font-size: 50px;
 }
 h2{
-  font-size: 2rem;
+  font-size: 3rem;
 }
   #title {
     text-align: center;
@@ -346,14 +346,14 @@ h2{
    }
     /* testimonials */
 .testimonial-text{
-  font-size: 23px;
+  font-size: 30px;
 }
   /* pricing */
   .section-heading{
-  font-size: 23px;
+  font-size: 30px;
   }
   .pricing-text{
-  font-size: 23px;
+  font-size: 30px;
   }
   /* cta */
   .cta-heading{
